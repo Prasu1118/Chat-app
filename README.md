@@ -1,10 +1,10 @@
 # CHAT-APP
-COMPANY : CODTECH IT SOLUTIONS
-NAME: NETHI PRASANNAKUMAR
-INTERN ID :CT08DM418
-DOMAIN:React.JS Web Development 
-DURATION: 8 week's 
-MENTOR: NEELA SANTHOSH KUMAR
+*COMPANY *: CODTECH IT SOLUTIONS
+*NAME*: NETHI PRASANNAKUMAR
+*INTERN ID* :CT08DM418
+*DOMAIN*:React.JS Web Development 
+*DURATION*: 8 week's 
+*MENTOR*: NEELA SANTHOSH KUMAR
 ##
 💬 React Chat App: Overview
 A Chat App developed using React.js offers a real-time, interactive messaging platform designed for smooth communication between users. This type of application uses React for its robust UI rendering, coupled with Socket.IO or WebSockets for live message transmission. The architecture generally separates the project into two parts: a chat-client for the user interface and a chat-server for handling connections, message broadcasting, and user sessions.
@@ -39,4 +39,5 @@ The Node.js server manages socket connections, broadcast events, and message log
 This Chat App architecture provides a foundation for further enhancements like media sharing, emoji support, push notifications, or even video calling. Let me know if you'd like help building a feature or customizing your design! 🚀💡
 ##
 OUTPUT
+<img width="1910" height="961" alt="Image" src="https://github.com/user-attachments/assets/f29254e0-87d7-4083-bbd9-659c0f937911" />
 
